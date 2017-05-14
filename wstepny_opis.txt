@@ -1,1 +1,1 @@
-Gra space invaders na podobnych zasadach co oryginał. Do programu użyje WPF. 
+Gra space invaders na podobnych zasadach co oryginał. Do programu użyje WPF. Jak się uda to dodatkowa baza danych z wynikami na Azure.
