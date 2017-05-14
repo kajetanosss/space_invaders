@@ -1,0 +1,1 @@
+Gra space invaders na podobnych zasadach co oryginał. Do programu użyje WPF. 
